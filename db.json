@@ -3,27 +3,27 @@
     {
       "id": "cheerios",
       "title": "Cheerios",
-      "price": 8.43
+      "price": 3.99
     },
     {
       "id": "cornflakes",
       "title": "Cornflakes",
-      "price": 4.99
+      "price": 2.52
     },
     {
       "id": "frosties",
       "title": "Frosties",
-      "price": 5.99
+      "price": 4.99
     },
     {
       "id": "shreddies",
       "title": "Shreddies",
-      "price": 6.49
+      "price": 4.68
     },
     {
       "id": "weetabix",
       "title": "Weetabix",
-      "price": 7.29
+      "price": 9.98
     }
   ]
 }
